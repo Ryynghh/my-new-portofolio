@@ -550,8 +550,7 @@ header ul a {
   align-items: center;
   justify-content: center;
   width: 80%;
-  margin-top: 0px;
-  margin-bottom: 180px;
+  margin-bottom: 300px;
 }
 
 .contact-title {
@@ -945,6 +944,11 @@ header ul a {
 
   .project-info {
     width: 85%;
+  }
+
+  .project-photo img {
+    width: 250px;
+    margin-left: -150px;
   }
 
   .project-info h1 {
