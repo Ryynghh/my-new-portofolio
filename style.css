@@ -11,7 +11,7 @@ body {
 
 .container {
   position: relative;
-  width: 100%;
+  width: 100vw;
   height: 100%;
   display: flex;
   flex-direction: column;
@@ -948,7 +948,7 @@ header ul a {
 
   .project-photo img {
     width: 250px;
-    margin-left: -150px;
+    margin-left: -60px;
   }
 
   .project-info h1 {
@@ -1010,4 +1010,5 @@ header ul a {
   .coder {
     padding: 0 15px;
   }
-} /* mobile responsive end */
+}
+/* mobile responsive end */
