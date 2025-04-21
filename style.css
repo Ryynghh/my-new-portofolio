@@ -946,6 +946,10 @@ header ul a {
     width: 85%;
   }
 
+  .project-info h1 {
+    font-size: 16px;
+  }
+
   .project-photo img {
     width: 250px;
     margin-left: -60px;
